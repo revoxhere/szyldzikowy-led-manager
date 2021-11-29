@@ -8,12 +8,26 @@ W następnych uruchomieniach płytka nasłuchuje na `http://szyldzik.local` i `h
 
 ## Prezentacja
 
-Linijka LED użyta jako podświetlenie płyty akrylowej:
-![](zdj/zdj1.jpg)
-
-Web UI dołączone do oprogramowania:
-![](zdj/zdj2.jpg)
-
+<table>
+  <thead>
+    <tr>
+      <td>
+        Linijka LED użyta jako podświetlenie płyty akrylowej
+      </td>
+      <td>
+        Web UI dołączone do oprogramowania
+      </td>
+    </tr>
+  </thead>
+  <tr>
+    <td>
+      <img src="zdj/zdj1.jpg">
+    </td>
+    <td>
+      <img src="zdj/zdj2.jpg">
+    </td>
+  </tr>
+</table>
 
 ##
 
